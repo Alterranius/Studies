@@ -1,0 +1,5 @@
+use prompts_db;
+db.createCollection("appeal");
+db.createCollection("comment");
+db.createCollection("delegation");
+db.createCollection("invite");

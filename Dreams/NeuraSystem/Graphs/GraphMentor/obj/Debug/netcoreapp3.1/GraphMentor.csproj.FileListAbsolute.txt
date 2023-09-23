@@ -1,0 +1,11 @@
+D:\Programming\Unity\Graphs\GraphMentor\bin\Debug\netcoreapp3.1\GraphMentor.exe
+D:\Programming\Unity\Graphs\GraphMentor\bin\Debug\netcoreapp3.1\GraphMentor.deps.json
+D:\Programming\Unity\Graphs\GraphMentor\bin\Debug\netcoreapp3.1\GraphMentor.runtimeconfig.json
+D:\Programming\Unity\Graphs\GraphMentor\bin\Debug\netcoreapp3.1\GraphMentor.runtimeconfig.dev.json
+D:\Programming\Unity\Graphs\GraphMentor\bin\Debug\netcoreapp3.1\GraphMentor.dll
+D:\Programming\Unity\Graphs\GraphMentor\bin\Debug\netcoreapp3.1\GraphMentor.pdb
+D:\Programming\Unity\Graphs\GraphMentor\obj\Debug\netcoreapp3.1\GraphMentor.csprojAssemblyReference.cache
+D:\Programming\Unity\Graphs\GraphMentor\obj\Debug\netcoreapp3.1\GraphMentor.AssemblyInfoInputs.cache
+D:\Programming\Unity\Graphs\GraphMentor\obj\Debug\netcoreapp3.1\GraphMentor.AssemblyInfo.cs
+D:\Programming\Unity\Graphs\GraphMentor\obj\Debug\netcoreapp3.1\GraphMentor.dll
+D:\Programming\Unity\Graphs\GraphMentor\obj\Debug\netcoreapp3.1\GraphMentor.pdb

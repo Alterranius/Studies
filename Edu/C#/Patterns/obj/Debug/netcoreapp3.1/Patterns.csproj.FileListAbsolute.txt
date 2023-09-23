@@ -1,0 +1,11 @@
+D:\Programming\MVC\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.exe
+D:\Programming\MVC\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.deps.json
+D:\Programming\MVC\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.json
+D:\Programming\MVC\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.runtimeconfig.dev.json
+D:\Programming\MVC\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.dll
+D:\Programming\MVC\Patterns\Patterns\bin\Debug\netcoreapp3.1\Patterns.pdb
+D:\Programming\MVC\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.csprojAssemblyReference.cache
+D:\Programming\MVC\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfoInputs.cache
+D:\Programming\MVC\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.AssemblyInfo.cs
+D:\Programming\MVC\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.dll
+D:\Programming\MVC\Patterns\Patterns\obj\Debug\netcoreapp3.1\Patterns.pdb
